@@ -5,5 +5,9 @@ jdk:
 
 script:
   - mvn test
-  
+
+branches:
+  only:
+    - master
+
 # prueba Travis CI 2
