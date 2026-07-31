@@ -10,4 +10,8 @@ branches:
   only:
     - master
 
+<<<<<<< HEAD
 # prueba Travis CI 2
+=======
+# prueba Travis CI 2
+>>>>>>> f4d5921 (Actualiza configuración de Travis)
